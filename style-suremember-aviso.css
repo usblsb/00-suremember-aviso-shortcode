@@ -1,0 +1,148 @@
+/* Inicio SUREMEMBER  AVISO shortcode mio resticcion [suremember-aviso] */
+.suremember-aviso-main {
+border-radius: 10px;
+border-style: solid;
+border-width: 1px;
+max-width: 700px;
+margin: 40px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+background-color: #edf5fb;
+border-color: var(--accent);
+padding: 10px 25px 10px 25px;
+box-shadow: 2px 2px 4px #4f4f4f;
+}
+
+.suremember-aviso-texto-parrafo-div {
+padding: 10px;
+}
+
+
+span.suremember-aviso-texto-header {
+font-size: clamp(22px, calc(1.375rem + ((1vw - 3.6px) * 0.7407)), 30px);	
+font-weight: bold;
+}
+span.suremember-aviso-texto-header {
+font-size: clamp(22px, calc(1.375rem + ((1vw - 3.6px) * 0.7407)), 30px);	
+font-weight: bold;
+color: var(--accent);
+text-shadow: 0 1px 2px #333;
+}
+span.suremember-aviso-texto-parrafo {
+font-size: clamp(15px, calc(0.9375rem + ((1vw - 3.6px) * 0.3704)), 19px);
+}
+
+
+.suremember-aviso-botones {
+display: flex;
+justify-content: center;
+margin-bottom: 10px;
+
+}
+
+.div-suremember-aviso-button {
+    width: 175px;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.div-suremember-aviso-button-suscribirse {
+    background-color: var(--global-color-8);
+    border: 5px double var(--base-3);
+}
+.div-suremember-aviso-button-suscribirse:hover {
+    background-color: var(--base-3);
+    border: 5px double var(--accent);
+}
+
+.div-suremember-aviso-button-acceder {
+background-color: var(--accent);
+border: 5px double var(--accent);
+}
+
+.div-suremember-aviso-button-acceder:hover {
+background-color: var(--base-3);
+border: 5px double var(--accent);
+}
+
+
+/* FIN SUREMEMBER  AVISO shortcode mio resticcion */
+
+
+/* Inicio SUREMEMBER  AVISO shortcode mio resticcion [suremember-aviso] */
+
+
+
+a.a-button-aviso {
+    color: var(--base-3);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    line-height: 40px;
+    transition: color .1s ease-in-out,background-color .1s ease-in-out;
+    display: block;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
+a.a-button-aviso.a-button-aviso-sustibirse:hover {
+    color: var(--accent);
+}
+
+a.a-button-aviso.a-button-aviso-acceder:hover {
+    color: var(--accent);
+}
+
+
+
+.button-aviso {
+width: 175px;
+padding: 20px;
+border-radius: 80px;
+margin-left: 5px;
+margin-right: 5px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+
+.suremember-aviso-boton-acceder {
+background-color: #3a00ff;
+border: 1px double #ffffff;
+}
+
+.suremember-aviso-boton-acceder:hover {
+background-color: #3a00ff;
+border: 1px double #ffffff;
+
+}
+
+.suremember-aviso-boton-suscribirse {
+background-color: #3a00ff;
+border: 5px double #ffffff;
+}
+
+.suremember-aviso-boton-suscribirse:hover {
+background-color: #ffffff;
+border: 5px double #1177cc;
+}
+
+
+
+span.suremember-aviso-texto-parrafo {
+font-size: clamp(15px, calc(0.9375rem + ((1vw - 3.6px) * 0.3704)), 19px);
+}
+a.button.suremember-aviso-button {
+color: #ffffff;
+}
+a.button.suremember-aviso-button:hover{
+color: #ffff00;
+}
+
+
+
+/* FIN SUREMEMBER  AVISO shortcode mio resticcion */
